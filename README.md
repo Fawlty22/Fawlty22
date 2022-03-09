@@ -1,7 +1,7 @@
-<h1 align="center"> Matthew Keys </br> <i>Full Stack Developer</i> </h1>
+![Banner Photo](./banner.png)
 
 
-Hello there! My name is Matt Keys. I am a new full stack developer, recently graduated from the University of Utah coding bootcamp. As reflected in the widget below, I am proficient in javascript based development, though I am familiar with some other languages! 
+Hello there! My name is Matthew Keys. I am a new full stack developer, recently graduated from the University of Utah coding bootcamp. As reflected in the widget below, I am proficient in javascript based development, though I am familiar with some other languages! 
 I currently live in Utah, though relocation may be right around the corner as I'm actively seeking employment! 
 
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
