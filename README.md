@@ -1,9 +1,11 @@
 ![Banner Photo](./banner.png)
 
 
-Hello there! My name is Matthew Keys. I am a new full stack developer, recently graduated from the University of Utah coding bootcamp. As reflected in the widget below, I am proficient in javascript based development, though I am familiar with some other languages! 
-I currently live in Utah, though relocation may be right around the corner as I'm actively seeking employment! 
+<p align="center"> Hello there! My name is Matthew Keys. I am a new full stack developer, recently graduated from the University of Utah coding bootcamp. As reflected in the widget below, I am proficient in javascript based development, though I am familiar with some other languages! 
+I currently live in Utah, though relocation may be right around the corner as I'm actively seeking employment! </p>
 
+<div align="center">
+ 
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,6 +15,7 @@ I currently live in Utah, though relocation may be right around the corner as I'
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+ </div>
 
 ### Here's Some Fun GitHub Stats About Me :nerd_face:
 
@@ -22,13 +25,22 @@ I currently live in Utah, though relocation may be right around the corner as I'
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
 
-### **You Can Reach Me Here:**
+<div align="center">
+ 
 <a href="mailto:Matthewjkeys22@gmail.com">![Matthewjkeys22@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/matthewkeysprofile/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://fawlty22.github.io/MatthewKeys-Portfolio/">![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange?style=for-the-badge&logo=react&logoColor=white)</a>
+ 
+</div>
+
+ <a href="" align="center">
+ 
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Fawlty22.Fawlty22)
+ 
+ <a>
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Fawlty22.Fawlty22)
+
 
 <!-- <a href="https://stackoverflow.com/users/16237984/fawlty22"><img src="https://stackoverflow.com/users/flair/16237984.png?theme=dark" width="208" height="58" alt="profile for Fawlty22 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Fawlty22 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
