@@ -21,9 +21,9 @@ I currently live in Utah, though relocation may be right around the corner as I'
 
 <img src="https://github-readme-stats.vercel.app/api?username=Fawlty22&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawlty22&layout=compact)
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawlty22&theme=dark" width="48%" >
 
 <div align="center">
  
