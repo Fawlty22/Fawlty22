@@ -14,7 +14,6 @@ I currently live in Utah, though relocation may be right around the corner as I'
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### A Little About Me :sun:
 
 ### Here's Some Fun GitHub Stats About Me :nerd_face:
 
