@@ -1,4 +1,4 @@
-![Banner Photo](./HeaderImageMJK.png)
+![Banner Photo](./HeaderImage.png)
 
 
 <p align="center"> Hello there! My name is Matthew Keys. I am a new full stack developer, recently graduated from the University of Utah coding bootcamp. As reflected in the widget below, I am proficient in javascript based development, though I am familiar with some other languages! 
