@@ -1,7 +1,7 @@
 ![Banner Photo](./HeaderImage.png)
 
 
-<p align="center"> Hello there! My name is Matthew Keys. I am a full-stack developer residing in upstate New York.  As reflected in the widget below, I am proficient in javascript/typescript based development, though I am familiar with other languages! </p>
+<p align="center"> Hello there! My name is Matthew Keys. I am a full-stack developer residing in upstate New York.  As reflected in the widget below, I am proficient in JavaScript/TypeScript-based development, though I am familiar with other languages! I am experienced in React, having built my first projects using the framework, but Angular has stolen my heart lately. My preferred stack is therefore the MEAN stack, but I have been using NestJs instead of plain Express. However, the MNAN stack just doesn't quite have the same ring to it.  </p>
 
 <div align="center">
  
