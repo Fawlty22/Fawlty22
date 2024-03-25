@@ -29,14 +29,15 @@
  
  
  </div>
+ <img src="https://myreadme.vercel.app/api/embed/Fawlty22?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-### Here's Some Fun GitHub Stats About Me :nerd_face:
+<!-- ### Here's Some Fun GitHub Stats About Me :nerd_face:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Fawlty22&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawlty22&layout=compact)
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawlty22&theme=dark" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawlty22&theme=dark" width="48%" > -->
 
 <div align="center">
  
