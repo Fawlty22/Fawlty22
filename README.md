@@ -56,8 +56,6 @@ Please check out my portfolio where you can see some of the stuff I've built.
 <a href="https://www.linkedin.com/in/matthewkeysprofile/">![LinkedIn](https://img.shields.io/badge/LinkedIn-1A7AC6?style=for-the-badge&logo=square&logoColor=white)</a>
 <a href="https://fawlty22.github.io/MJKPortfolio/">![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange?style=for-the-badge&logo=react&logoColor=white)</a>
 
- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
 </div>
 
  <a href="" align="center">
