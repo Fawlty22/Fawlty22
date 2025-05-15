@@ -8,7 +8,7 @@
 Outside of work, I am an avid disc golfer and die-hard skier. Anything that I bring a lot of energy and creativity to my team, no matter what we're working on. In this industry, learning never stops! 
 
 Please check out my portfolio where you can see some of the stuff I've built.
-
+</p>
 <div align="center">
  
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
