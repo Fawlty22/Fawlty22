@@ -29,7 +29,8 @@ Please check out my portfolio where you can see some of the stuff I've built.
 ![Tailwinds CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=black)
- 
+![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
  
 
 <div align="center">
