@@ -10,11 +10,12 @@ Outside of work, I am an avid disc golfer and die-hard skier. Anything that I br
 Please check out my portfolio where you can see some of the stuff I've built. 
 
 <div align="center">
-<h4>Certifications:</h4>
+<h4>Certifications</h4>
 
  ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer-Associate_512x512.png" alt="AWS Certified Developer – Associate" width="100"/>
 
-<h4>Skills & Tools:</h4>
+<h4>Skills & Tools</h4>
 
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=cyan)
