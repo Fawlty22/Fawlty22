@@ -1,12 +1,12 @@
 ![Banner Photo](./HeaderImage.png)
 
 
-<p align="center"> Hello, my name is Matthew Keys and I am a Web Developer at Capstone Integrated Solutions. After working in the ski industry for 4 years, I decided to pursue a new career and challenge myself with web development. I received a certificate in Full Stack Development from the University of Utah and am always looking to expand and sharpen my skills. Recently, I attained a Certified Developer certification from AWS and am eager to earn more. 
+ Hello, my name is Matthew Keys and I am a Web Developer at Capstone Integrated Solutions. After working in the ski industry for 4 years, I decided to pursue a new career and challenge myself with web development. I received a certificate in Full Stack Development from the University of Utah and am always looking to expand and sharpen my skills. Recently, I attained a Certified Developer certification from AWS and am eager to earn more. 
 
 Outside of work, I am an avid disc golfer and die-hard skier. Anything that I bring a lot of energy and creativity to my team, no matter what we're working on. In this industry, learning never stops! 
 
 Please check out my portfolio where you can see some of the stuff I've built.
-</p>
+
 <div align="center">
  
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
