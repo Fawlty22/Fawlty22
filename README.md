@@ -49,6 +49,8 @@ Please check out my portfolio where you can see some of the stuff I've built.
 
 
 <div align="center">
+
+ <h4>Contact</h4>
  
 <a href="mailto:Matthewjkeys22@gmail.com">![Matthewjkeys22@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/matthewkeysprofile/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
