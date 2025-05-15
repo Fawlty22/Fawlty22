@@ -13,7 +13,6 @@ Please check out my portfolio where you can see some of the stuff I've built.
 <h4>Certifications</h4>
 
  ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer-Associate_512x512.png" alt="AWS Certified Developer – Associate" width="100"/>
 
 <h4>Skills & Tools</h4>
 
