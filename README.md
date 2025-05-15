@@ -55,7 +55,9 @@ Please check out my portfolio where you can see some of the stuff I've built.
 <a href="mailto:Matthewjkeys22@gmail.com">![Matthewjkeys22@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/matthewkeysprofile/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://fawlty22.github.io/MJKPortfolio/">![Portfolio](https://img.shields.io/badge/My%20Portfolio-orange?style=for-the-badge&logo=react&logoColor=white)</a>
- 
+
+ ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 </div>
 
  <a href="" align="center">
