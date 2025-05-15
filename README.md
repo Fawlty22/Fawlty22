@@ -29,42 +29,6 @@ Please check out my portfolio where you can see some of the stuff I've built.
 ![Tailwinds CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=black)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS EFS](https://img.shields.io/badge/AWS%20EFS-0052CC?style=for-the-badge&logo=amazon-efs&logoColor=white)
-
-![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS KMS](https://img.shields.io/badge/AWS%20KMS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-4B612C?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![AWS SQS](https://img.shields.io/badge/AWS%20SQS-232F3E?style=for-the-badge&logo=amazon-sqs&logoColor=white)
-![AWS SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=for-the-badge&logo=amazon-sns&logoColor=white)
-![AWS EventBridge](https://img.shields.io/badge/AWS%20EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF4F00?style=for-the-badge&logo=aws-cloudformation&logoColor=white)
-![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CodeDeploy](https://img.shields.io/badge/AWS%20CodeDeploy-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-1D428A?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![AWS CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![AWS X-Ray](https://img.shields.io/badge/AWS%20X--Ray-1D272F?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-5A9FD4?style=for-the-badge&logo=elastic-beanstalk&logoColor=white)
-![AWS ECS](https://img.shields.io/badge/AWS%20ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-
-![AWS SDK](https://img.shields.io/badge/AWS%20SDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS CLI](https://img.shields.io/badge/AWS%20CLI-232F3E?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 
 <div align="center">
  
