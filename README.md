@@ -3,15 +3,19 @@
 
 Hello, my name is Matthew Keys and I am a Web Developer at Capstone Integrated Solutions. After working in the ski industry for 4 years, I decided to pursue a new career and challenge myself with web development. I received a certificate in Full Stack Development from the University of Utah and am always looking to expand and sharpen my skills. 
 
-Recently, I attained an AWS Certified Developer certification ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
- and am eager to earn more. Currently, I am working on Solutions Architect Professional with my goal of completion before end of 2025. 
+Recently, I attained an AWS Certified Developer certification and am eager to earn more. Currently, I am working on Solutions Architect Professional with my goal of completion before end of 2025. 
 
 Outside of work, I am an avid disc golfer and die-hard skier. Anything that I bring a lot of energy and creativity to my team, no matter what we're working on. In this industry, learning never stops! 
 
 Please check out my portfolio where you can see some of the stuff I've built. 
 
 <div align="center">
- 
+<h4>Certifications:</h4>
+
+ ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<h4>Skills & Tools:</h4>
+
 ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=cyan)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
